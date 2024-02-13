@@ -1,5 +1,5 @@
 # SkyPka
-
+<!--
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="560" height="140">
     <path d="M0 20 L20 20 L20 40 L0 40 Z" style="fill:#ED1C24;stroke-width:0"/>
 	<path d="M20 0 L100 0 L100 20 L20 20 Z" style="fill:#ED1C24;stroke-width:0"/>
@@ -32,7 +32,7 @@
 	<path d="M480 100 L540 100 L540 120 L480 120 Z" style="fill:#B97A57;stroke-width:0"/>
 	<path d="M540 40 L560 40 L560 120 L540 120 Z" style="fill:#B97A57;stroke-width:0"/>
 	<path d="M460 80 L480 80 L480 100 L460 100 Z" style="fill:#B97A57;stroke-width:0"/>
-</svg>
+</svg>-->
 
 <!--<style>
 @font-face { 
